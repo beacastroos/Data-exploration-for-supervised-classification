@@ -1,14 +1,14 @@
 ﻿# Data-exploration-for-supervised-classification
 
-## Sobre o projeto
+## About the project
 
-Desenvolvimento de um pipeline de machine learning para o conjunto de dados de pacientes com Carcinoma Hepatocelular (HCC) de modo a prever a sobrevivência dos pacientes 1 ano após o diagnóstico.  
+Development of a machine learning pipeline for the Hepatocellular Carcinoma (HCC) dataset to predict patient survival one year after diagnosis.
 
-O projeto foi feito num documento ipynb.
+The project was created in a Jupyter notebook (.ipynb) document.
 
-## Pre-requisitos
+## Prerequisites
 
-Para compilar o nosso projeto, são precisas as seguintes bibliotecas:
+To run the project, the following libraries are required:
 
 * matplotlib
   ```sh
@@ -31,8 +31,10 @@ Para compilar o nosso projeto, são precisas as seguintes bibliotecas:
   pip install numpy
   ```
 
-## Como compilar
-Fazer download dos ficheiros ``EIACD2.ipynb`` e ``hcc_dataset.csv`` e compilar o ficheiro ``EIACD2.ipynb``.
+## How to compile
 
-## Resultados
-Análise de dados, teste de diferentes algoritmos com dados processados e sem processamento, análise dos resultados de previsão de diferentes algoritmos.
+Download the files ``EIACD2.ipynb`` and ``hcc_dataset.csv`` and run the ``EIACD2.ipynb`` file.
+
+## Results
+
+Data analysis, testing of different algorithms with both processed and unprocessed data, and evaluation of prediction results using various algorithms.
